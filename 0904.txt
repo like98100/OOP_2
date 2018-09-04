@@ -1,0 +1,23 @@
+게임으로 배우는 c++
+
+blocking function : 키보드 입력을 대기하는 함수
+non-blocking function : 키보드 입력을 대기하지 않는 함수
+
+c에는 non-blocking x
+
+keyboard application
+keyboard buffer
+
+keyboard hit : keyboard buffer가 쌓여있는지 확인
+
+
+\r + \n == enter
+
+sleep(n) : n 밀리초 동안 대기, Windows.h 사용(stdlib.h 사용 시 _sleep(n)으로 사용 가능)
+
+system() : System call function
+ex) system("cls") : 화면 지우기
+
+sprintf
+
+kbhit : 키보드 입력 시 true 리턴, 미입력 시 0 리턴(사용해서 예습 추천)
