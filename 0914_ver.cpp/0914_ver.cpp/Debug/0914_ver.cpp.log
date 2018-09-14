@@ -1,0 +1,4 @@
+﻿  source.cpp
+c:\users\b407_21\desktop\oop_2\0914_ver.cpp\0914_ver.cpp\source.cpp(14): warning C4101: 'scr' :참조되지 않은 지역 변수입니다.
+  0914_ver.cpp.vcxproj -> C:\Users\B407_21\Desktop\OOP_2\0914_ver.cpp\Debug\0914_ver.cpp.exe
+  0914_ver.cpp.vcxproj -> C:\Users\B407_21\Desktop\OOP_2\0914_ver.cpp\Debug\0914_ver.cpp.pdb (Full PDB)
