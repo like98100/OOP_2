@@ -1,0 +1,9 @@
+private const int in class -> 생성자에서 초기화, 이 값은 죽기 전까지 절대로 변하지 않음
+
+casting(up/down/dynamic)
+
+반환값에 const -> 값 고정
+
+non-virtual/virtual func
+
+추상/구상 클래스
