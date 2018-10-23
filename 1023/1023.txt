@@ -1,0 +1,17 @@
+Recommend to use virtual function
+
+GameObject class -> item create => 전부 생성복사
+※Container class -> T(GameObejct pointer)'s address(pointer) >> item
+
+'const' int maxItems(==변수이름) -> 생성 후 값이 바뀌지 않을 것(초기화 당시엔 변환, 프로그램 작동 중에는 변환x)
+
+'static const' -> 객체 여부에 상관 없이 값 고정
+
+
+c#'s const -> like static const
+c++'s const -> like read only(생성자 함수에서 초기화 가능)
+
+static_cast<>
+dynamic_cast<>
+
+template programming
