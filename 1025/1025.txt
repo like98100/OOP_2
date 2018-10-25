@@ -1,0 +1,3 @@
+use ifndef(if not define) instead of "pragma once"
+     --------------------
+      -> range :: ifdef ~ endif
