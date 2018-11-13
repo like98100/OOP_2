@@ -1,0 +1,23 @@
+﻿1 process, 1 CPU
+process에서 또 다른 process 호출 :: Fork
+소켓(socket)
+
+multi thread programming
+- 서로 메모리 공유
+- 실행 단계가 복수
+
+process에서 또 다른 process 호출 -> 비효율적
+
+
+enum class {~~} :: 클래스 내부 변수 public static
+
+friend :: 클래스 친구등록(동등 관계)
+
+
+상속 기반 : 시간과 돈이 많은 사람들을 위한 프로그래밍(게임이랑 안맞음)
+
+컴퍼런트 기반
+
+싱글톤
+
+friend 함수 :: 전역함수
