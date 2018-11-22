@@ -1,0 +1,14 @@
+시퀀스 컨테이너  value만 저장
+연관 컨테이너  key, value 저장(변수 사용과 같은 방식)
+ 구성 --   vector  Array 형식, 메모리 접근이 빠름
+      --   list  연결 리스트, 이론상 가장 좋음
+ list  vector 속도 빠름(하드웨어의 한계)
+ deque  list의 확장판, push_backpop_back 등 기능 사용
+ maxmin heap  정보 저장 시(tree 형태) root 값(노드)이 가장 큰작은 값을 가지고 있는 것을 보장하는 것
+
+map  key(변수 이름)value 값을 저장하는 형태
+multimap  map 확장 버전
+
+반복자
+vector  array	--
+list   pointer	-- 통합 - 반복자
