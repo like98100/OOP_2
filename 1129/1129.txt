@@ -1,0 +1,11 @@
+cast 연산자 중간고사 들어감
+
+
+C#의 list는 C++의 vector에 가깝다
+
+queue --> front == like 'head'
+queue --> end == like 'tail'
+
+14-STL, 15slide ) que.pop() == que.pop_front() ==> front 값 읽고 삭제
+
+priority_queue == tree/max_heap
